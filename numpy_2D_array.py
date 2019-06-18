@@ -44,3 +44,5 @@ print("\n",a[0:,[0,2]])
 
 print("\n",a[[0,2]])
 print("\n",a[1:3,2])
+
+print(a.reshape(3,3))
