@@ -18,7 +18,7 @@ print(a/2)
 print(a**5)
 print(a+b)
 
-#perticular value calling
+#perticular value calling  [R,C]
 
 print(a[0])
 print(b[0])
